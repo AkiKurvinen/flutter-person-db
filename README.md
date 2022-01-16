@@ -1,2 +1,3 @@
-# flutter-person-db
-Flutter demo project
+# Flutter demo project 'Person App'
+
+Add persons to list
